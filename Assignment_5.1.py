@@ -10,5 +10,5 @@ class Point:
     def sqSum(self):
         return self.x ** 2 + self.y ** 2 + self.z ** 2
 
-point = Point(1,3,5)
-print(point.sqSum())
+Point1 = Point(1,3,5)
+print(Point1.sqSum())
